@@ -1,7 +1,7 @@
 # Smart Home Database Project  
 
-**Developer**: [Your Name]  
-**University**: [Your University Name]  
+**Developer**: Francesco Moretti
+**University**: Universty of Pisa
 
 ## Overview  
 This project focuses on designing and implementing a **database system for a smart home**, aiming to manage devices, energy usage, comfort, and security efficiently. The database is designed to handle complex data operations, analytics, and real-time interactions with smart devices, ensuring scalability and reliability.
