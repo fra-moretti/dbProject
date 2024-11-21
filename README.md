@@ -52,7 +52,3 @@ The documentation provides detailed insights into the project, including:
 - Expand the analytics area to include predictive models for energy consumption and device failure detection.  
 - Integrate real-time data inputs from IoT devices.  
 - Optimize queries for larger datasets.  
-
----
-
-Feel free to adapt this README to reflect your style and any additional details you’d like to include! 😊
